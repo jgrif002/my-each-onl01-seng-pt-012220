@@ -1,6 +1,6 @@
 
 def my_each(aray)
   i = 0 
-  while my_each.lenth <
+  while i < my_each.length 
   # code here
 end
